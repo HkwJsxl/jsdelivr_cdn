@@ -1,3 +1,4 @@
+// 背景彩带效果
 !function () {
     const t = document.getElementById("ribbon");
     if ("false" === t.getAttribute("mobile") && /Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)) return;

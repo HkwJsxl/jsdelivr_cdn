@@ -1,3 +1,4 @@
+// 鼠标点击特效
 function clickEffect() {
     let balls = [];
     let longPressed = false;
